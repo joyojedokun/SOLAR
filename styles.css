@@ -514,6 +514,9 @@ gap: 1rem;
 .ability{
     width: 75%;
 }
+.ability h2 {
+    padding-top: 18px;
+}
  .metric-chart{
     width: 100%;
  }
@@ -598,6 +601,7 @@ padding-top: 15px;
     list-style: none;
     justify-content: space-between;
     gap: 0.5rem;
+    font-size: 11px;
 }
 
 footer {
@@ -616,5 +620,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 1rem;
 }
 }
